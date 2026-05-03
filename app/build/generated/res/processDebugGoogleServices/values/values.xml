@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">514274128583</string>
+    <string name="google_api_key" translatable="false">AIzaSyAd2zv3EI-Gcxxk45uC7R8TkSpcmssj8jE</string>
+    <string name="google_app_id" translatable="false">1:514274128583:android:d74f69feb7a230ec7344e2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAd2zv3EI-Gcxxk45uC7R8TkSpcmssj8jE</string>
+    <string name="google_storage_bucket" translatable="false">brewshare-9a200.firebasestorage.app</string>
+    <string name="project_id" translatable="false">brewshare-9a200</string>
+</resources>

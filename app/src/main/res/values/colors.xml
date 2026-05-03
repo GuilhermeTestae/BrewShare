@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta de cores tema Café -->
+    <color name="brown_dark">#4A2C2A</color>
+    <color name="brown_medium">#7B4F3A</color>
+    <color name="brown_light">#D4A87A</color>
+    <color name="bg_cream">#FDF6EC</color>
+    <color name="text_dark">#2C2C2C</color>
+
+    <!-- Material Theme -->
+    <color name="colorPrimary">#4A2C2A</color>
+    <color name="colorPrimaryVariant">#7B4F3A</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorSecondary">#D4A87A</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorBackground">#FDF6EC</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorError">#B00020</color>
+</resources>

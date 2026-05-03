@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "br.com.brewshare.app-debug-46:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "br.com.brewshare.app-main-48:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-debug-46:\\drawable_circle_bg_white.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-main-48:\\drawable\\circle_bg_white.xml"
+    },
+    {
+        "merged": "br.com.brewshare.app-debug-46:/drawable_ic_launcher_background.xml.flat",
+        "source": "br.com.brewshare.app-main-48:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "br.com.brewshare.app-debug-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "br.com.brewshare.app-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-debug-46:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-main-48:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-debug-46:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-main-48:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-debug-46:\\layout_activity_create_post.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-main-48:\\layout\\activity_create_post.xml"
+    },
+    {
+        "merged": "br.com.brewshare.app-debug-46:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.brewshare.app-main-48:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.brewshare.app-debug-46:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.brewshare.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-debug-46:\\drawable_ic_coffee_placeholder.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-main-48:\\drawable\\ic_coffee_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-debug-46:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-main-48:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "br.com.brewshare.app-debug-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "br.com.brewshare.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "br.com.brewshare.app-debug-46:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "br.com.brewshare.app-main-48:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "br.com.brewshare.app-debug-46:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "br.com.brewshare.app-main-48:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-debug-46:\\drawable_circle_bg.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-main-48:\\drawable\\circle_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-debug-46:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-main-48:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-debug-46:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-main-48:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-debug-46:\\drawable_ic_coffee.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-main-48:\\drawable\\ic_coffee.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-debug-46:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-main-48:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "br.com.brewshare.app-debug-46:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "br.com.brewshare.app-main-48:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "br.com.brewshare.app-debug-46:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.brewshare.app-main-48:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.brewshare.app-debug-46:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "br.com.brewshare.app-main-48:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "br.com.brewshare.app-debug-46:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.brewshare.app-main-48:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.brewshare.app-debug-46:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "br.com.brewshare.app-main-48:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "br.com.brewshare.app-debug-46:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "br.com.brewshare.app-main-48:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-debug-46:\\layout_item_post.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-main-48:\\layout\\item_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-debug-46:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-main-48:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-debug-46:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\Pichau\\.gradle\\daemon\\8.9\\br.com.brewshare.app-main-48:\\drawable\\ic_person.xml"
+    }
+]

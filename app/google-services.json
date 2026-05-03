@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514274128583",
+    "project_id": "brewshare-9a200",
+    "storage_bucket": "brewshare-9a200.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514274128583:android:d74f69feb7a230ec7344e2",
+        "android_client_info": {
+          "package_name": "br.com.brewshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2zv3EI-Gcxxk45uC7R8TkSpcmssj8jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

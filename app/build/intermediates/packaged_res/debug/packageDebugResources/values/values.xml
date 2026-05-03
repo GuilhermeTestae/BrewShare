@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_cream">#FDF6EC</color>
+    <color name="brown_dark">#4A2C2A</color>
+    <color name="brown_light">#D4A87A</color>
+    <color name="brown_medium">#7B4F3A</color>
+    <color name="colorBackground">#FDF6EC</color>
+    <color name="colorError">#B00020</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorPrimary">#4A2C2A</color>
+    <color name="colorPrimaryVariant">#7B4F3A</color>
+    <color name="colorSecondary">#D4A87A</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="text_dark">#2C2C2C</color>
+    <string name="app_name">BrewShare</string>
+    <string name="gcm_defaultSenderId" translatable="false">514274128583</string>
+    <string name="google_api_key" translatable="false">AIzaSyAd2zv3EI-Gcxxk45uC7R8TkSpcmssj8jE</string>
+    <string name="google_app_id" translatable="false">1:514274128583:android:d74f69feb7a230ec7344e2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAd2zv3EI-Gcxxk45uC7R8TkSpcmssj8jE</string>
+    <string name="google_storage_bucket" translatable="false">brewshare-9a200.firebasestorage.app</string>
+    <string name="project_id" translatable="false">brewshare-9a200</string>
+    <style name="Theme.BrewShare" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">@color/colorOnSecondary</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorError">@color/colorError</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
